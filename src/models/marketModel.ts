@@ -22,4 +22,5 @@ const marketSchema = new mongoose.Schema({
     },
 });
 
-module.exports = mongoose.model("Market", marketSchema);
+export default mongoose.model("Market", marketSchema);
+
