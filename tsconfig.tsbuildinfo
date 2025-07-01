@@ -1,0 +1,1 @@
+{"root":["./src/db.ts","./src/index.ts","./src/controllers/marketcontrollers.ts","./src/models/marketmodel.ts","./src/models/outcomemodel.ts","./src/models/positionmodel.ts","./src/models/resolutionmodel.ts","./src/models/trademodel.ts","./src/models/usermodel.ts","./src/routes/marketroutes.ts"],"version":"5.6.3"}
